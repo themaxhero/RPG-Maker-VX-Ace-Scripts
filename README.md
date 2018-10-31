@@ -6,4 +6,4 @@ Do whatever you want with this code as long you give me the credit on the credit
 
 # Terms of use
 Whenever you use any of this scripts you are allowing with:
- - Put Marcelo "maxhero" Amancio on the credits of your game.
+ - to put `Marcelo "maxhero" Amancio` on the credits of your game.
