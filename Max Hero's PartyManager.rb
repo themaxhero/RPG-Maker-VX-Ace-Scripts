@@ -4,6 +4,7 @@
 # made by: Marcelo "maxhero" Amancio
 # You can use this script in any project that you want as long as you put
 # `Marcelo "maxhero" Amancio` on your project's credit.
+# Special Thanks to Kyo Panda
 #===============================================================================
 
 #===============================================================================
